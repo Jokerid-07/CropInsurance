@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/apple"
+            android:contentDescription="TODO" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Apple, Malus domestica, is a deciduous tree in the family Rosaceae which is grown for its fruits, known as apples. Apple fruits are one of the most widely cultivated fruits in the world, is round (pome) in shape and range in color from green to red. When planted from a seed, an apple tree can take six to ten years to mature and produce fruit of its own."
+            android:textColor="#000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:textColor="#000"
+            android:text="Apple trees are small to medium sized trees reaching heights of 5-10 m (16.4-32.8 ft), with a central trunk which divides into several branches. The leaves of the tree are oval in shape and can reach up to 13 cm (5.1 in) in length and 7 cm (2.8 in) in width." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="Apple may also be referred to as mela or appel and the domestic tree is believed to have originated from Western Asia and the Mediterranean from several wild ancestors." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cultivation"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="Apple trees grow best in the tropics and at higher latitudes they require a mild growing season and a cold winter to break the dormancy." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="The standard method of propagating apple is by budding. When planting an apple nursery or orchard it is highly advisable to plant seedlings budded from root stock to prevent an increase in dormancy of the buds. Budded trees should be pruned in the first year to encourage new shoot growth."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="In the tropics, apple trees require careful management in order to make the heavy crop loads sustainable. This includes bending shoots, pruning the tips and also defoliating the trees.."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="Flowers are also removed to promote growth until the first fruit production, generally after 2 years. Apple trees can also be propagated by grafting and mound layering.."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="Grafting involves joining the lower part of one plant (root stock) with the upper part (scion) of another. Grafting is usually done during the dormant season and must be done on dormant scion and stock wood.."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="Mound layering is used to propagate apple clonal root stocks. Soil is mounded around shoots that have been cut back, thereby stimulating roots to grow at the base of the shoots."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="A year before propagation begins, 8-10 mm (0.3-0.4 in) diameter stock plants are planted in rows and then cut back to 45-60 cm (17.7-23.6 in)."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="They are then grown for one year. In the spring, the plants are again cut back, this time to 2.5 cm (1 in) above the ground."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="New shoots gradually form and more soil and bark are added in mounds around the plants. This cycle can continue on through the growing season. Then the shoots are harvested by cutting close to the bases."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:padding="2dp"
+            android:text="The mother stool beds are then left exposed until further growth of the new shoots has occurred, and another cycle of healing begins."/>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border"
+            android:layout_marginTop="5dp"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Requirements"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Apples grow in Zones 3 to 9. Some can tolerate winter temperatures as low as -40°F. Choose an apple tree suited for winter temperatures where you live."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Apples generally do not grow well close to the ocean where temperatures remain moderate most of the year."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Apples grow best in full sun. An apple tree planted in partial sunlight will not bear as many fruits like an apple planted in full sun."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Apples grow best in well-drained loamy soil, although they will grow in more sandy soil or in soil with some clay."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Apples grow best in a neutral soil pH of 6.0 to 7.0."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Plant apples sheltered from a prevailing wind or breeze. Avoid planting apples in a low spot where cold air or frost can settle."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Late spring frosts can kill apple flowers. Apples bloom in late spring after peaches, cherries, and almonds. Early fall frosts can damage the fruit. Choose a variety suited to your growing region."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Avoid planting in the same spot where apple trees have previously grown. Pests and diseases that attack apple trees may still live in the soil"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border"
+            android:layout_marginTop="5dp"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Harvesting"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Apples come to harvest from midsummer through late fall; fruit ripens 100 to 200 days after fruit set depending on the variety."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="The best way to know if apples are ready for harvest is to taste them; select one and try it. Also, consider skin color and fruit drop. Apples are usually ready for harvest when they reach full color; full color may vary according to the variety."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="A mature apple will come away from the tree easily; lift the apple up and twist in a rotating motion. It should not be necessary to cut an apple from the stem."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Late ripening apples usually come to harvest more quickly than long-maturing early and mid-season varieties."/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border"
+            android:layout_marginTop="5dp"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Storing and preserving"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Apples will keep for 6 to 8 weeks in a cool place; a refrigerator just above 32°F is best. Late-maturing apples are better keepers than summer apples. Commercial growers often place apples in cold storage for 6 to 12 months."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:padding="2dp"
+                android:text="Apples kept in storage should not be diseased or damaged or other fruit may be affected. Apples are often wrapped individually in paper to avoid spoilage."/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

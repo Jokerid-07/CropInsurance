@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border"
+            android:layout_marginTop="5dp"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Choosing the right apple for your garden"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="When choosing an apple or apples to plant consider how you want to eat your apples; some cultivars are for fresh eating, some for cooking, and some for preserving."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="When choosing an apple or apples consider when the fruit will come to harvest; some apples ripen midsummer, some in late summer, and some in autumn. If you have room, you may want to plant one of each to extend the harvest."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Check to see if the apple you want to grow needs a pollinator; many cultivars require a pollinator. You may need to plant two or more trees to get fruit."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Check the rootstock of the apples you want to grow; some rootstock are suited for very cold regions, some tolerate drought, some tolerate wet soil, some are dwarfing or semi-dwarfing."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="The nursery or grower can tell you if the rootstock is suitable for your garden and needs. Some apple varieties are “sports” or accidental mutations of another variety and others are bred–meaning they are created by apple breeders through cross selection. Not every sport is productive and worthy of growing"/>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Apple pollination"
+            android:textColor="#000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="Most apple varieties have flowers that contain male and female parts and so are self-pollinating. These trees will set fruit without cross-pollination. However, there are some varieties that are self-infertile and require a pollinizer."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="Even trees that are self-pollinating may have a better fruit-set if there is cross-pollination."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="Apples can be pollinated by bees and insects or by pollen that floats on the wind. Plant your apple tree within 40 to 50 feet of another apple tree that blooms at the same time or graft a branch from a suitable pollinator onto your tree."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="Flowers that are only partially pollinated will tend to bear fruit that prematurely drops."/>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border"
+            android:layout_marginTop="5dp"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Spacing apples"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Space apple trees according to their height. Standard apples that can grow to 20 or 30 feet tall; they should be spaced 25 to 30 feet apart."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Semi-dwarf trees that can grow to 12 to 15 feet tall; they should be spaced 15 feet apart."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Dwarf trees that can grow 6 to 10 feet tall; they should be spaced 8 to 10 feet apart."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Allow enough room for sunlight and air circulation to reach all parts of the tree. If you are short on space, plant dwarf trees."/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

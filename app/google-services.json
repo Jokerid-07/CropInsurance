@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413225550497",
+    "firebase_url": "https://crop-insurance-ce2d3.firebaseio.com",
+    "project_id": "crop-insurance-ce2d3",
+    "storage_bucket": "crop-insurance-ce2d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413225550497:android:91baa0d496b06bbd1726e0",
+        "android_client_info": {
+          "package_name": "com.example.cropinsurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413225550497-qrsfc5eiks59mjc82nie9bsbnhqjbkfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltaobqOBonk3SbYj-cEsKNhdt1fNjpnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413225550497-qrsfc5eiks59mjc82nie9bsbnhqjbkfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
